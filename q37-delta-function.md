@@ -15,6 +15,7 @@ V(x) = \alpha\,\delta(x).
 $$
 
 Here:
+
 - $m$ is the particle mass,
 - $\hbar$ is the reduced Planck constant,
 - $E$ is the energy eigenvalue,
@@ -28,6 +29,7 @@ Here:
 ### Step 1: Why is $V(x)=0$ when $x \neq 0$?
 
 By definition of the Dirac delta function:
+
 1. $\delta(x) = 0$ for all $x \neq 0$,
 2. $\displaystyle \int_{-\infty}^{\infty}\delta(x)\,dx = 1$.
 
@@ -133,6 +135,7 @@ $$
 $$
 
 At this stage $A,B,C,D$ are arbitrary constants. They will be fixed by:
+
 1. Normalizability (wavefunction must not blow up at $|x|\to\infty$),
 2. Continuity at $x=0$,
 3. The derivative jump condition at $x=0$ from the delta potential.
@@ -273,8 +276,9 @@ $$
 \boxed{\eta = \frac{2m\alpha}{\hbar^2}}.
 $$
 
-**Key point:**  
-- The wavefunction $\psi(x)$ is **continuous** at $x=0$,  
+**Key point:**
+
+- The wavefunction $\psi(x)$ is **continuous** at $x=0$,
 - Its derivative $\psi'(x)$ has a **finite jump** at $x=0$ proportional to $\psi(0)$.
 
 ---
@@ -282,6 +286,7 @@ $$
 ## (c) Bound-state wavefunction and energy
 
 We now use:
+
 1. Normalizability (bound state),
 2. Continuity of $\psi$ at $x=0$,
 3. The derivative jump condition from part (b).
@@ -357,6 +362,7 @@ $$
 $$
 
 Compute each side:
+
 - For $x<0$: $\psi(0^-) = A e^{\kappa\cdot 0} = A$.
 - For $x>0$: $\psi(0^+) = D e^{-\kappa\cdot 0} = D$.
 
@@ -644,6 +650,7 @@ $$
 ### Scattering setup: incoming wave from the left
 
 We assume a beam of particles:
+
 - Coming from the left ($x \to -\infty$),
 - Moving to the right,
 - Scattering off the potential at $x=0$,
