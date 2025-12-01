@@ -944,4 +944,3 @@ T = \frac{k^2}
 $$
 
 These formulas completely characterize the bound and scattering states of the one-dimensional delta-function potential.
-
