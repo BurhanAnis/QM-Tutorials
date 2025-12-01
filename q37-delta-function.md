@@ -1,6 +1,6 @@
-# Delta-Function Potential: Full Solution to Question 37 (Expanded)
+# Honey, I shrunk the potential q37
 
-This document collects **all** the steps and explanations for Question 37 about the one-dimensional delta-function potential, with more detailed algebra and reasoning shown explicitly.
+This document collects the steps and explanations for Question 37 about the one-dimensional delta-function potential.
 
 We consider the time-independent Schrödinger equation:
 
